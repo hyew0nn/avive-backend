@@ -1,0 +1,364 @@
+
+> nodeserver@0.0.0 start
+> nodemon app.js
+
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+
+> nodeserver@0.0.0 start
+> nodemon app.js
+
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+Express server listening on port 3000
+[0mGET / [36m304 [0m10.652 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.717 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.998 ms - 1183[0m
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+
+> nodeserver@0.0.0 start
+> nodemon app.js
+
+[33m[nodemon] 3.1.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at errorOrDestroy (node:internal/streams/destroy:239:7)
+    at node:internal/fs/streams:272:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:672:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v22.4.0
+Express server listening on port 3000
+[0mGET / [36m304 [0m10.873 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.772 ms - -[0m
+[0mGET / [36m304 [0m1.555 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.494 ms - -[0m
+[0mGET / [36m304 [0m1.297 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.545 ms - -[0m
+[0mGET / [36m304 [0m1.212 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.664 ms - -[0m
+[0mGET / [36m304 [0m1.466 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.632 ms - -[0m
+[0mGET / [32m200 [0m1.262 ms - 207[0m
+[0mGET / [32m200 [0m0.893 ms - 207[0m
+[0mGET / [32m200 [0m0.853 ms - 207[0m
+[0mGET / [32m200 [0m1.533 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.675 ms - 1183[0m
+[0mGET / [32m200 [0m0.884 ms - 207[0m
+[0mGET / [32m200 [0m1.026 ms - 207[0m
+[0mGET / [32m200 [0m0.893 ms - 207[0m
+[0mGET / [32m200 [0m0.935 ms - 207[0m
+[0mGET / [32m200 [0m0.802 ms - 207[0m
+[0mGET / [32m200 [0m0.941 ms - 207[0m
+[0mGET / [32m200 [0m0.932 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.180 ms - 1183[0m
+[0mGET / [36m304 [0m0.853 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.516 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.957 ms - 1183[0m
+[0mGET / [32m200 [0m0.887 ms - 207[0m
+[0mGET / [32m200 [0m0.838 ms - 207[0m
+[0mGET / [32m200 [0m0.845 ms - 207[0m
+[0mGET /query?q=SHOW+DIAGNOSTICS [33m404 [0m1.067 ms - 1183[0m
+[0mGET /solr/admin/info/system [33m404 [0m0.676 ms - 1183[0m
+[0mGET /cgi-bin/authLogin.cgi [33m404 [0m0.818 ms - 1183[0m
+[0mGET /solr/admin/cores?action=STATUS&wt=json [33m404 [0m0.923 ms - 1183[0m
+[0mGET / [32m200 [0m0.799 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.913 ms - 1183[0m
+[0mGET /v2/_catalog [33m404 [0m0.918 ms - 1183[0m
+[0mGET / [32m200 [0m0.804 ms - 207[0m
+[0mGET / [32m200 [0m0.760 ms - 207[0m
+[0mGET / [32m200 [0m0.843 ms - 207[0m
+[0mGET / [32m200 [0m0.800 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.975 ms - 1183[0m
+[0mGET / [32m200 [0m1.489 ms - 207[0m
+[0mGET / [32m200 [0m0.775 ms - 207[0m
+[0mGET / [32m200 [0m0.839 ms - 207[0m
+[0mGET / [32m200 [0m0.779 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.477 ms - 1183[0m
+[0mGET / [32m200 [0m0.722 ms - 207[0m
+[0mGET / [32m200 [0m0.806 ms - 207[0m
+[0mGET / [32m200 [0m1.781 ms - 207[0m
+[0mGET / [32m200 [0m0.987 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.973 ms - 1183[0m
+[0mGET / [32m200 [0m0.866 ms - 207[0m
+[0mGET / [32m200 [0m0.824 ms - 207[0m
+[0mGET / [32m200 [0m0.830 ms - 207[0m
+[0mGET / [32m200 [0m1.643 ms - 207[0m
+[0mGET / [32m200 [0m1.177 ms - 207[0m
+[0mGET / [32m200 [0m0.880 ms - 207[0m
+[0mGET / [32m200 [0m0.719 ms - 207[0m
+[0mGET / [32m200 [0m0.756 ms - 207[0m
+[0mGET / [32m200 [0m1.235 ms - 207[0m
+[0mGET / [32m200 [0m0.802 ms - 207[0m
+[0mGET / [32m200 [0m0.757 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.941 ms - 1183[0m
+[0mGET / [32m200 [0m0.903 ms - 207[0m
+[0mGET / [36m304 [0m0.762 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.474 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.939 ms - 1183[0m
+[0mGET / [32m200 [0m1.384 ms - 207[0m
+[0mGET / [32m200 [0m1.016 ms - 207[0m
+[0mGET / [36m304 [0m0.752 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.439 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.592 ms - -[0m
+[0mGET /users [32m200 [0m0.637 ms - 23[0m
+[0mGET /users [36m304 [0m0.629 ms - -[0m
+[0mGET / [32m200 [0m0.928 ms - 207[0m
+[0mGET / [32m200 [0m1.059 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.857 ms - 1183[0m
+[0mGET / [32m200 [0m0.826 ms - 207[0m
+[0mGET / [32m200 [0m0.766 ms - 207[0m
+[0mGET / [32m200 [0m0.799 ms - 207[0m
+[0mGET / [32m200 [0m1.355 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.919 ms - 1183[0m
+[0mGET / [32m200 [0m0.751 ms - 207[0m
+[0mGET / [32m200 [0m1.479 ms - 207[0m
+[0mGET / [32m200 [0m0.826 ms - 207[0m
+[0mGET / [32m200 [0m0.701 ms - 207[0m
+[0mGET / [32m200 [0m0.882 ms - 207[0m
+[0mGET / [32m200 [0m1.163 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.307 ms - 1183[0m
+[0mGET / [32m200 [0m1.081 ms - 207[0m
+[0mGET / [32m200 [0m0.761 ms - 207[0m
+[0mGET / [32m200 [0m0.784 ms - 207[0m
+[0mGET / [32m200 [0m0.871 ms - 207[0m
+[0mGET / [32m200 [0m0.780 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.943 ms - 1183[0m
+[0mGET / [32m200 [0m1.156 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.871 ms - 1183[0m
+[0mGET / [32m200 [0m0.797 ms - 207[0m
+[0mGET / [32m200 [0m0.736 ms - 207[0m
+[0mGET / [32m200 [0m1.230 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.860 ms - 1183[0m
+[0mGET / [32m200 [0m0.734 ms - 207[0m
+[0mGET / [32m200 [0m1.000 ms - 207[0m
+[0mGET / [32m200 [0m1.042 ms - 207[0m
+[0mGET / [32m200 [0m0.953 ms - 207[0m
+[0mGET / [32m200 [0m1.129 ms - 207[0m
+[0mGET / [32m200 [0m1.316 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.198 ms - 1183[0m
+[0mGET / [32m200 [0m1.976 ms - 207[0m
+[0mGET / [32m200 [0m1.272 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.187 ms - 1183[0m
+[0mGET / [32m200 [0m1.501 ms - 207[0m
+[0mGET / [32m200 [0m0.751 ms - 207[0m
+[0mGET / [32m200 [0m0.732 ms - 207[0m
+[0mGET / [32m200 [0m1.145 ms - 207[0m
+[0mGET / [32m200 [0m0.778 ms - 207[0m
+[0mGET / [32m200 [0m0.744 ms - 207[0m
+[0mGET / [32m200 [0m1.237 ms - 207[0m
+[0mGET / [32m200 [0m0.774 ms - 207[0m
+[0mGET / [32m200 [0m0.744 ms - 207[0m
+[0mGET / [32m200 [0m0.738 ms - 207[0m
+[0mGET / [32m200 [0m0.747 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.297 ms - 1183[0m
+[0mGET / [32m200 [0m1.103 ms - 207[0m
+[0mGET / [32m200 [0m0.915 ms - 207[0m
+[0mGET / [32m200 [0m0.821 ms - 207[0m
+[0mGET / [32m200 [0m0.739 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.224 ms - 1183[0m
+[0mGET / [32m200 [0m0.674 ms - 207[0m
+[0mGET / [32m200 [0m0.703 ms - 207[0m
+[0mGET / [32m200 [0m1.326 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.856 ms - 1183[0m
+[0mGET / [32m200 [0m1.783 ms - 207[0m
+[0mGET / [32m200 [0m1.489 ms - 207[0m
+[0mGET / [32m200 [0m0.722 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.352 ms - 1183[0m
+[0mGET / [32m200 [0m0.871 ms - 207[0m
+[0mGET / [32m200 [0m0.712 ms - 207[0m
+[0mGET / [32m200 [0m0.780 ms - 207[0m
+[0mGET / [32m200 [0m0.686 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.466 ms - 1183[0m
+[0mGET / [32m200 [0m0.973 ms - 207[0m
+[0mGET / [32m200 [0m0.802 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.875 ms - 1183[0m
+[0mGET /robots.txt [33m404 [0m0.814 ms - 1183[0m
+[0mGET /sitemap.xml [33m404 [0m1.402 ms - 1183[0m
+[0mGET / [32m200 [0m0.698 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.821 ms - 1183[0m
+[0mGET / [32m200 [0m0.731 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.802 ms - 1183[0m
+[0mGET / [32m200 [0m0.678 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.840 ms - 1183[0m
+[0mGET / [32m200 [0m0.717 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.854 ms - 1183[0m
+[0mGET / [32m200 [0m0.727 ms - 207[0m
+[0mGET / [32m200 [0m0.905 ms - 207[0m
+[0mGET / [32m200 [0m0.756 ms - 207[0m
+[0mGET / [32m200 [0m0.691 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.863 ms - 1183[0m
+[0mGET / [32m200 [0m0.794 ms - 207[0m
+[0mGET / [32m200 [0m0.739 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m0.866 ms - 1183[0m
+[0mGET / [32m200 [0m0.711 ms - 207[0m
+[0mGET / [32m200 [0m0.690 ms - 207[0m
+[0mGET / [36m304 [0m0.742 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.488 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.887 ms - 1183[0m
+[0mGET / [36m304 [0m0.720 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.450 ms - -[0m
+[0mGET /users [36m304 [0m0.561 ms - -[0m
+[0mGET /users [36m304 [0m0.549 ms - -[0m
+[0mGET /users [36m304 [0m0.548 ms - -[0m
+[0mGET / [36m304 [0m0.779 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.436 ms - -[0m
+[0mGET /users [36m304 [0m0.528 ms - -[0m
+[0mGET /users [36m304 [0m0.967 ms - -[0m
+[0mGET /users [36m304 [0m0.488 ms - -[0m
+[0mGET /users [36m304 [0m0.489 ms - -[0m
+[0mGET /users [36m304 [0m0.502 ms - -[0m
+[0mGET /users [36m304 [0m0.501 ms - -[0m
+[0mGET /users [36m304 [0m0.522 ms - -[0m
+[0mGET /users [36m304 [0m0.531 ms - -[0m
+[0mGET /users [36m304 [0m0.506 ms - -[0m
+[0mGET / [32m200 [0m0.703 ms - 207[0m
+[0mGET /.DS_Store [33m404 [0m0.879 ms - 1183[0m
+[0mGET / [32m200 [0m0.732 ms - 207[0m
+[0mGET /.vscode/sftp.json [33m404 [0m0.833 ms - 1183[0m
+[0mGET / [32m200 [0m0.796 ms - 207[0m
+[0mGET / [32m200 [0m0.704 ms - 207[0m
+[0mGET /query?q=SHOW+DIAGNOSTICS [33m404 [0m1.079 ms - 1183[0m
+[0mGET /cgi-bin/authLogin.cgi [33m404 [0m0.672 ms - 1183[0m
+[0mGET /v2/_catalog [33m404 [0m0.763 ms - 1183[0m
+[0mGET /solr/admin/info/system [33m404 [0m0.682 ms - 1183[0m
+[0mGET / [32m200 [0m0.598 ms - 207[0m
+[0mGET /solr/admin/cores?action=STATUS&wt=json [33m404 [0m0.804 ms - 1183[0m
+[0mGET /favicon.ico [33m404 [0m0.820 ms - 1183[0m
+[0mGET / [32m200 [0m0.881 ms - 207[0m
+[0mGET / [32m200 [0m0.759 ms - 207[0m
+[0mGET / [32m200 [0m0.703 ms - 207[0m
+[0mGET /.git/config [33m404 [0m0.827 ms - 1183[0m
