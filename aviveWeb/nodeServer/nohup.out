@@ -362,3 +362,17 @@ Express server listening on port 3000
 [0mGET / [32m200 [0m0.759 ms - 207[0m
 [0mGET / [32m200 [0m0.703 ms - 207[0m
 [0mGET /.git/config [33m404 [0m0.827 ms - 1183[0m
+[0mGET / [36m304 [0m0.809 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.446 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.855 ms - 1183[0m
+[0mGET /users [36m304 [0m0.548 ms - -[0m
+[0mGET /users [36m304 [0m0.536 ms - -[0m
+[0mGET /users [36m304 [0m0.478 ms - -[0m
+[0mGET /users [36m304 [0m0.487 ms - -[0m
+[0mGET /users [36m304 [0m0.525 ms - -[0m
+[0mGET /users [36m304 [0m0.514 ms - -[0m
+[0mGET /users [36m304 [0m0.532 ms - -[0m
+[0mGET /users [36m304 [0m0.512 ms - -[0m
+[0mGET / [32m200 [0m1.267 ms - 207[0m
+[0mGET /users [36m304 [0m0.517 ms - -[0m
+[0mGET /users [36m304 [0m0.496 ms - -[0m
