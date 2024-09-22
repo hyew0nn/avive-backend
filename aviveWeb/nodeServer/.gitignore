@@ -1,7 +1,4 @@
 # dotenv environment variable files
 .env
-.ssh
 
 *.class
-
-node_modules/ssh2/test/fixtures/
