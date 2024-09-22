@@ -1,5 +1,5 @@
 var fs = require('fs');
-var AWS = require('aws-sdk');
+var AWS = require('@aws-sdk/client-s3');
 var express = require('express');
 var router = express.Router();
 
