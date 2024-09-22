@@ -3,7 +3,7 @@ var router = express.Router();
 
 const UserModel = require('../models/user');
 
-router.post('/', async function (req, res) {
+router.get('/', async function (req, res) {
   // const groupID = req.body.group_ID;
 
   // if (!groupID) {
