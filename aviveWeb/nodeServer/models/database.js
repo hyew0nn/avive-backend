@@ -5,10 +5,10 @@ var router = express.Router();
 require("dotenv").config({path:'../.env'});
 
 const connection = mysql.createConnection({
-  host: process.env.MYSQL_hostname,
-  user: process.env.MYSQL_user,
-  password: process.env.MYSQL_password,
-  database: process.env.MYSQL_database,
+  host: "database-1.cvoum4o4i3k4.ap-southeast-2.rds.amazonaws.com",
+  user: "admin",
+  password: "avive446!",
+  database: "aviveDB",
 });
 
 connection.connect((err) => {
